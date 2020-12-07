@@ -36,10 +36,10 @@ the default bootstrap theme or an unstyled HTML site.
 
 <br>
 
-![App Screenshot](./Assets/AppScreenshot.png)
+![App Screenshot](./Assets/updatedportfolio.png)
 
 <br>
 
  ## To view my App, please click on the link below
 
-[Portfolio App](https://amybaguio.github.io/Portfolio/)
+[Portfolio App](https://amybaguio.github.io/Updated-Portfolio2/)
