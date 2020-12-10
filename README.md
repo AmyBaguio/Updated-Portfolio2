@@ -2,15 +2,18 @@
 
 
 
-Your updated site should have the following content:
+Updated Portfolio has the following content:
 
-* Your name
+* Name
 
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+* Links to GitHub profile 
+* Link to LinkedIn page
+* Email Address 
+* Phone number
 
-* A link to a PDF of your resume
+* A link to a PDF of Resume
 
-* A list of projects. For each project, make sure you have the following:
+* Three current projects posted consisting two group projects and one individual project. Each projects contains:
 
   * Project title
 
@@ -22,27 +25,35 @@ Your updated site should have the following content:
 
 
 #### Design
+<br>
 
-Site should look "polished." Here are a few guidelines on what that means:
+* Site is polished
 
 * Mobile-first design
 
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
+* Chose a color palette that best represent me and doesn't cause eye strain
 
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+* Make sure the font size is large enough to read 
 
-![Html Checker](./Assets/HtmlChecker.png)
-
-### Screenshot of the App
 
 <br>
 
-![App Screenshot](./Assets/ResponsivePortfolio.png)
+### Used the Nu Html Checker to ensure no errors generated when checked.
+
+![Html Checker](ResponsivePortfolio.png)
+
+
+<br>
+
+## Screenshot of the App
+
+<br>
+
+![App Screenshot](ResponsivePortfolio.png)
 
 <br>
 
 
- ## To view my App, please click on the link below
+ ## To view the App, please click on the link below
 
 [Portfolio App](https://amybaguio.github.io/Updated-Portfolio2/)
