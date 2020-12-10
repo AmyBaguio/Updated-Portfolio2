@@ -32,13 +32,16 @@ the default bootstrap theme or an unstyled HTML site.
 
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
+![Html Checker](./Assets/HtmlChecker.png)
+
 ### Screenshot of the App
 
 <br>
 
-![App Screenshot](./Assets/updatedportfolio.png)
+![App Screenshot](./Assets/ResponsivePortfolio.png)
 
 <br>
+
 
  ## To view my App, please click on the link below
 
