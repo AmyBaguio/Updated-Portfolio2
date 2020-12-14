@@ -40,7 +40,7 @@ Updated Portfolio has the following content:
 
 ### Used the Nu Html Checker to ensure no errors generated when checked.
 
-![Html Checker](ResponsivePortfolio.png)
+![Html Checker](https://raw.githubusercontent.com/AmyBaguio/Updated-Portfolio2/master/Assets/HtmlChecker%20.png)
 
 
 <br>
@@ -49,7 +49,7 @@ Updated Portfolio has the following content:
 
 <br>
 
-![App Screenshot](ResponsivePortfolio.png)
+![App Screenshot](https://raw.githubusercontent.com/AmyBaguio/Updated-Portfolio2/master/Assets/ResponsivePortfolio%20.png)
 
 <br>
 
